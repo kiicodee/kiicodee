@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [aeteic.netlify.app](aeteic.netlify.app)
+- 👨‍💻 All of my projects are available at [portofolio](aeteic.netlify.app)
 
 - 📫 How to reach me **martin@aeteic.my.id**
-
-- ⚡ Fun fact **no have girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
